@@ -35,7 +35,10 @@ I build **local-first developer tools, offline-capable mobile apps, and autonomo
   <tr>
     <td width="125" align="center" valign="top">
       <a href="https://github.com/strangerforge/engramkeep">
-        <img src="https://raw.githubusercontent.com/strangerforge/strangerforge/main/assets/engramkeep-icon.png" width="95" height="95" alt="Engramkeep Logo" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/strangerforge/engramkeep/main/assets/logo-dark.svg" />
+          <img src="https://raw.githubusercontent.com/strangerforge/engramkeep/main/assets/logo.svg" width="95" height="95" alt="Engramkeep Logo" />
+        </picture>
       </a>
       <br/>
       <sub><b>● Live on PyPI</b></sub>
