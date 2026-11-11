@@ -119,7 +119,10 @@ I build **local-first developer tools, offline-capable mobile apps, and autonomo
   <tr>
     <td width="125" align="center" valign="top">
       <a href="https://aigunluk.vercel.app">
-        <img src="https://aigunluk.vercel.app/icons/icon-192.png" width="95" height="95" alt="AI Günlük Logo" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://aigunluk.vercel.app/icons/icon-dark.svg" />
+          <img src="https://aigunluk.vercel.app/icons/icon.svg" width="95" height="95" alt="AI Günlük Logo" />
+        </picture>
       </a>
       <br/>
       <sub><b>● Live Platform</b></sub>
