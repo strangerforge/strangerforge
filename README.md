@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Engramkeep PyPI](https://img.shields.io/pypi/v/engramkeep?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI%20engramkeep&color=10B981)](https://pypi.org/project/engramkeep/)
+[![Engramkeep PyPI](https://img.shields.io/pypi/v/engramkeep?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI%20engramkeep&color=10B981&cacheSeconds=21600)](https://pypi.org/project/engramkeep/)
 [![Flagship Mobile](https://img.shields.io/badge/Flagship-Niyaz%20Mobile-1B6B4A?style=for-the-badge&logo=capacitor&logoColor=white)](https://github.com/strangerforge/Niyaz)
 [![AI Platform](https://img.shields.io/badge/Live-AI%20G%C3%BCnl%C3%BCk-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://aigunluk.vercel.app)
 [![Philosophy](https://img.shields.io/badge/Build-Local--First%20%26%20Zero--Dep-0969DA?style=for-the-badge)](#)
@@ -46,7 +46,7 @@ I build **local-first developer tools, offline-capable mobile apps, and autonomo
     <td valign="top">
       <h3>🧠 Engramkeep — Persistent Markdown Memory & Fix Registry for AI Agents</h3>
       <p>
-        <a href="https://pypi.org/project/engramkeep/"><img src="https://img.shields.io/pypi/v/engramkeep?style=flat-square&color=10B981" alt="PyPI Version" /></a>
+        <a href="https://pypi.org/project/engramkeep/"><img src="https://img.shields.io/pypi/v/engramkeep?style=flat-square&color=10B981&cacheSeconds=21600" alt="PyPI Version" /></a>
         <a href="https://github.com/strangerforge/engramkeep/actions/workflows/ci.yml"><img src="https://github.com/strangerforge/engramkeep/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
         <a href="https://github.com/strangerforge/engramkeep"><img src="https://img.shields.io/badge/Dependencies-0%20(stdlib)-0969DA?style=flat-square" alt="Zero Dependencies" /></a>
         <a href="https://github.com/strangerforge/engramkeep"><img src="https://img.shields.io/badge/Agents-10%20%2B%20MCP-6366F1?style=flat-square" alt="10 Agents + MCP" /></a>
