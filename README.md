@@ -120,8 +120,8 @@ I build **local-first developer tools, offline-capable mobile apps, and autonomo
     <td width="125" align="center" valign="top">
       <a href="https://aigunluk.vercel.app">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://aigunluk.vercel.app/icons/icon-dark.svg" />
-          <img src="https://aigunluk.vercel.app/icons/icon.svg" width="95" height="95" alt="AI Günlük Logo" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://aigunluk.vercel.app/icons/icon-dark.svg?v=3" />
+          <img src="https://aigunluk.vercel.app/icons/icon.svg?v=3" width="95" height="95" alt="AI Günlük Logo" />
         </picture>
       </a>
       <br/>
