@@ -24,7 +24,7 @@ I build **local-first developer tools, offline-capable mobile apps, and autonomo
 
 - 🧠 **Open-Source AI Memory:** Creator of [**Engramkeep**](https://github.com/strangerforge/engramkeep) — Local-first, zero-dependency Markdown memory & troubleshooting fix registry for 10 AI coding agents ([PyPI](https://pypi.org/project/engramkeep/)).
 - 🌿 **Flagship Mobile:** Creator of [**Niyaz**](https://github.com/strangerforge/Niyaz) — An ad-free, serene, offline-first Islamic companion for Android, iOS, and Web.
-- 📰 **Autonomous AI:** Creator of [**AI Günlük**](https://github.com/strangerforge/aigunluk) — An automated AI news radar delivering concise Turkish (TR) daily briefings.
+- 📰 **Autonomous AI:** Creator of [**AI Günlük**](https://github.com/strangerforge/aigunluk) — An automated AI news radar extracting full articles into rich Turkish (TR) editorial briefings.
 - 💡 **Philosophy:** Minimum friction, strict verification, zero bloated abstractions.
 
 ---
@@ -135,7 +135,7 @@ I build **local-first developer tools, offline-capable mobile apps, and autonomo
         <a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Edition-Turkish%20(TR)%20Briefings-F59E0B?style=flat-square" alt="Turkish Briefings" /></a>
       </p>
       <p>
-        <b>Fully automated AI news & signal aggregator</b> scanning global and Turkish AI ecosystems 24/7 and distilling updates into concise Turkish (TR) daily summaries.
+        <b>Fully automated Swiss-editorial AI news & signal aggregator</b> scanning global and Turkish AI ecosystems 24/7, extracting full articles and distilling updates into rich 5–7 sentence Turkish (TR) daily summaries.
       </p>
       <p>
         <a href="https://aigunluk.vercel.app">
