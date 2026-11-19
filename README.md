@@ -114,9 +114,9 @@ I design and ship **local-first developer tools, offline-capable cross-platform 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,ts,js,nodejs,sqlite,html,css,tailwind,git,github,githubactions,vercel,figma&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,ts,js,nodejs,sqlite,html,css,tailwind,git,github,githubactions,vercel,figma&theme=light" />
-    <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,sqlite,html,css,tailwind,git,github,githubactions,vercel,figma&theme=dark" alt="Tech Stack" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Cnodejs%2Csqlite%2Chtml%2Ccss%2Ctailwind%2Cgit%2Cgithub%2Cgithubactions%2Cvercel%2Cfigma&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Cnodejs%2Csqlite%2Chtml%2Ccss%2Ctailwind%2Cgit%2Cgithub%2Cgithubactions%2Cvercel%2Cfigma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python%2Cts%2Cjs%2Cnodejs%2Csqlite%2Chtml%2Ccss%2Ctailwind%2Cgit%2Cgithub%2Cgithubactions%2Cvercel%2Cfigma&theme=dark" alt="Tech Stack" />
   </picture>
 </div>
 
