@@ -6,7 +6,11 @@
   <img src="./assets/header-dark.svg" width="100%" alt="Stranger — AI Systems & Local-First Software Builder" />
 </picture>
 
-<br/><br/>
+<br/>
+
+🇬🇧 **English** · 🇹🇷 [**Türkçe**](https://github.com/strangerforge/strangerforge/blob/main/README.tr.md)
+
+<br/>
 
 <a href="https://pypi.org/project/engramkeep/"><img src="https://img.shields.io/pypi/v/engramkeep?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI%20engramkeep&color=10B981" alt="Engramkeep PyPI" /></a>&nbsp;<a href="https://github.com/strangerforge/Niyaz/releases/latest"><img src="https://img.shields.io/github/v/release/strangerforge/Niyaz?style=for-the-badge&logo=capacitor&logoColor=white&label=Niyaz&color=1B6B4A" alt="Niyaz Latest Release" /></a>&nbsp;<a href="https://aigunluk.vercel.app"><img src="https://img.shields.io/badge/Live-AI%20G%C3%BCnl%C3%BCk-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="AI Günlük Live" /></a>&nbsp;<img src="https://img.shields.io/badge/Craft-Local--First%20%26%20Zero--Dep-0969DA?style=for-the-badge" alt="Local-First and Zero-Dep" />
 
