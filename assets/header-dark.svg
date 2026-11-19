@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" fill="none" role="img" aria-label="Stranger — AI Systems and Local-First Software Builder">
+  <defs>
+    <linearGradient id="bgDark" x1="0" y1="0" x2="900" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B0F17" />
+      <stop offset="55%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#0B1320" />
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="18%" cy="22%" r="48%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowRight" cx="85%" cy="80%" r="50%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0" />
+      <stop offset="30%" stop-color="#22D3EE" stop-opacity="0.8" />
+      <stop offset="70%" stop-color="#10B981" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="gridDark" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#94A3B8" stroke-opacity="0.06" stroke-width="1" />
+    </pattern>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="899" height="199" rx="16" fill="url(#bgDark)" stroke="#1E293B" />
+  <rect x="1" y="1" width="898" height="198" rx="15" fill="url(#gridDark)" />
+  <rect x="1" y="1" width="898" height="198" rx="15" fill="url(#glowLeft)" />
+  <rect x="1" y="1" width="898" height="198" rx="15" fill="url(#glowRight)" />
+
+  <rect x="60" y="1" width="780" height="2" fill="url(#accentLine)" />
+
+  <!-- Top Eyebrow Pill -->
+  <rect x="307" y="26" width="286" height="24" rx="12" fill="#0F172A" stroke="#1E293B" />
+  <circle cx="323" cy="38" r="3.5" fill="#10B981" />
+  <text x="456" y="42" text-anchor="middle" fill="#94A3B8" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.6">STRANGERFORGE · BUILDER</text>
+
+  <!-- Main Heading -->
+  <text x="450" y="102" text-anchor="middle" fill="#F8FAFC" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-0.8">Stranger</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="136" text-anchor="middle" fill="#38BDF8" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="0.2">AI Systems &amp; Local-First Software Builder</text>
+
+  <!-- Pillars -->
+  <text x="450" y="168" text-anchor="middle" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="500">Zero-Dependency Tooling  ·  Offline-First Apps  ·  Autonomous AI Workflows</text>
+</svg>
