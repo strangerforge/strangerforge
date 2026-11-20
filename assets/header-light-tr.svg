@@ -6,25 +6,30 @@
       <stop offset="100%" stop-color="#F1F5F9" />
     </linearGradient>
     <radialGradient id="glowLeftLTr" cx="18%" cy="22%" r="48%">
-      <stop offset="0%" stop-color="#0EA5E9" stop-opacity="0.11" />
-      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0" />
+      <stop offset="0%" stop-color="#569EA1" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#569EA1" stop-opacity="0" />
     </radialGradient>
     <radialGradient id="glowRightLTr" cx="85%" cy="80%" r="50%">
-      <stop offset="0%" stop-color="#10B981" stop-opacity="0.11" />
-      <stop offset="100%" stop-color="#10B981" stop-opacity="0" />
+      <stop offset="0%" stop-color="#345B57" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#345B57" stop-opacity="0" />
     </radialGradient>
     <linearGradient id="accentLineLTr" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0284C7" stop-opacity="0" />
-      <stop offset="30%" stop-color="#0284C7" stop-opacity="0.7" />
-      <stop offset="70%" stop-color="#059669" stop-opacity="0.7" />
-      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0" />
+      <stop offset="0%" stop-color="#569EA1" stop-opacity="0" />
+      <stop offset="30%" stop-color="#358C91" stop-opacity="0.8" />
+      <stop offset="70%" stop-color="#2B6E66" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#183830" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="subLightTr" x1="200" y1="120" x2="700" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2B7D82" />
+      <stop offset="52%" stop-color="#3C8D90" />
+      <stop offset="100%" stop-color="#215B54" />
     </linearGradient>
     <pattern id="gridLightTr" width="36" height="36" patternUnits="userSpaceOnUse">
       <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#0F172A" stroke-opacity="0.045" stroke-width="1" />
     </pattern>
   </defs>
 
-  <rect x="0.5" y="0.5" width="899" height="199" rx="16" fill="url(#bgLightTr)" stroke="#E2E8F0" />
+  <rect x="0.5" y="0.5" width="899" height="199" rx="16" fill="url(#bgLightTr)" stroke="#D5E2E3" />
   <rect x="1" y="1" width="898" height="198" rx="15" fill="url(#gridLightTr)" />
   <rect x="1" y="1" width="898" height="198" rx="15" fill="url(#glowLeftLTr)" />
   <rect x="1" y="1" width="898" height="198" rx="15" fill="url(#glowRightLTr)" />
@@ -32,12 +37,12 @@
   <rect x="60" y="1" width="780" height="2" fill="url(#accentLineLTr)" />
 
   <rect x="295" y="26" width="310" height="24" rx="12" fill="#FFFFFF" stroke="#CBD5E1" />
-  <circle cx="311" cy="38" r="3.5" fill="#059669" />
+  <circle cx="311" cy="38" r="3.5" fill="#2D7D82" />
   <text x="456" y="42" text-anchor="middle" fill="#475569" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.5">STRANGERFORGE · GELİŞTİRİCİ</text>
 
   <text x="450" y="102" text-anchor="middle" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-0.8">Stranger</text>
 
-  <text x="450" y="136" text-anchor="middle" fill="#0284C7" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="0.2">Yapay Zeka Sistemleri &amp; Yerel Öncelikli Yazılım Geliştirici</text>
+  <text x="450" y="136" text-anchor="middle" fill="url(#subLightTr)" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="0.2">Yapay Zeka Sistemleri &amp; Yerel Öncelikli Yazılım Geliştirici</text>
 
   <text x="450" y="168" text-anchor="middle" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="500">Sıfır Bağımlı Araçlar  ·  Çevrimdışı Uygulamalar  ·  Otonom AI İş Akışları</text>
 </svg>
